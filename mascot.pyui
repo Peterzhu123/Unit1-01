@@ -1,0 +1,124 @@
+[
+  {
+    "nodes" : [
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{58, 233}, {169, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_joe_touch_up_inside",
+          "frame" : "{{304, 294}, {80, 32}}",
+          "title" : "St. Joe HS",
+          "uuid" : "2295216A-9DDC-4362-A9D7-5F7774CFD84B",
+          "class" : "Button",
+          "name" : "button1",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{58, 127}, {168, 35}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "mother_teresa_touch_up_inside",
+          "alpha" : 1,
+          "frame" : "{{80, 104}, {80, 32}}",
+          "title" : "Mother Teresa HS",
+          "uuid" : "A5294C63-6E4F-4BED-9547-6985CD559748",
+          "class" : "Button",
+          "font_bold" : false,
+          "name" : "Mother Teresa HS",
+          "font_size" : 15
+        },
+        "selected" : true
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{58, 370}, {168, 32}}",
+        "class" : "Button",
+        "attributes" : {
+          "action" : "st_mark_touch_up_inside",
+          "frame" : "{{304, 294}, {80, 32}}",
+          "title" : "St. Mark HS",
+          "uuid" : "283B8709-75A8-44A5-8E8A-BDED7C8DDB68",
+          "class" : "Button",
+          "name" : "button2",
+          "font_size" : 15
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{374, 370}, {176, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{269, 294}, {150, 32}}",
+          "uuid" : "BA31C75F-0447-4432-B744-1DA481F15D36",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "mascot_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{38, 22}, {189, 30}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{269, 294}, {150, 32}}",
+          "uuid" : "04A255B6-FED1-471F-BDDA-90B00A1BA956",
+          "class" : "Label",
+          "alignment" : "center",
+          "text" : "School ",
+          "name" : "label1",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      },
+      {
+        "nodes" : [
+
+        ],
+        "frame" : "{{374, 233}, {150, 32}}",
+        "class" : "Label",
+        "attributes" : {
+          "font_size" : 18,
+          "frame" : "{{269, 294}, {150, 32}}",
+          "uuid" : "036DF166-DC65-4341-8896-E8BAC6321672",
+          "class" : "Label",
+          "alignment" : "left",
+          "text" : "",
+          "name" : "school_name_label",
+          "font_name" : "<System>"
+        },
+        "selected" : false
+      }
+    ],
+    "frame" : "{{0, 0}, {688, 619}}",
+    "class" : "View",
+    "attributes" : {
+      "border_color" : "RGBA(0.000000,0.000000,0.000000,1.000000)",
+      "enabled" : true,
+      "background_color" : "RGBA(1.000000,1.000000,1.000000,1.000000)",
+      "name" : "Unit_0_01",
+      "tint_color" : "RGBA(0.000000,0.478000,1.000000,1.000000)",
+      "flex" : ""
+    },
+    "selected" : false
+  }
+]
